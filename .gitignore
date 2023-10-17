@@ -1,0 +1,6 @@
+# local config
+OAI_CONFIG_LIST
+.vscode/
+
+# cache
+.cache/
